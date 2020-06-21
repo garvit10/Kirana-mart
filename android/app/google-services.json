@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317862671798",
+    "firebase_url": "https://nukkadmart-27f06.firebaseio.com",
+    "project_id": "nukkadmart-27f06",
+    "storage_bucket": "nukkadmart-27f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317862671798:android:eb4f7f44694f61324e7d17",
+        "android_client_info": {
+          "package_name": "com.example.helping_hand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317862671798-38l5n20e6utbbfgon4cn5070h084a2tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helping_hand",
+            "certificate_hash": "39687aafa226c37914cb78bcfa028d9070bdb23c"
+          }
+        },
+        {
+          "client_id": "317862671798-aebf4kr7qbjtq70jn1920l1skg760sjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFk0EydBTBuTKVCL7okFWWwDrknRtIZpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317862671798-aebf4kr7qbjtq70jn1920l1skg760sjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
