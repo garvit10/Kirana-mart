@@ -1,7 +1,4 @@
 # Nukkad Mart
-
-I can change -vaibhav
-
 A new Flutter project.
 
 ## Getting Started
